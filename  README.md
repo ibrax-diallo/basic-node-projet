@@ -28,4 +28,4 @@ demon] 1.19.4
 listening on port: 8080
 Connexion reussie!
 
-Pour recuperer les data depuis d'un api externe, il faut exécuter la commande  node src/com_api_externe/BusinessUnit.js  depuis la racine du projet
+Pour recuperer les données depuis un api externe, il faut exécuter la commande  node src/com_api_externe/BusinessUnit.js  depuis la racine du projet
